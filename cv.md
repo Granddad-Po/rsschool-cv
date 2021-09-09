@@ -66,7 +66,7 @@ public class Encryption {
 ## Courses:
 
 * Exploring Java on [JavaRush](https://javarush.ru/) and reading a variety of books
-![JavaRush screenshot](.\javarush.jpg)
+![JavaRush screenshot](javarush.jpg)
 * HTML, CSS, JavaScript in YouTube channel: [Фрилансер по жизни - IT и фриланс](https://www.youtube.com/c/FreelancerLifeStyle) and course "Академия верстки. WebStart"
 
 ***
