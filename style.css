@@ -356,7 +356,7 @@ ul li {
 	height: 41px;
 	background-color: #ffc20a;
 
-	-webkit-mask-image: url("/icons/rs_school_js\ 1.svg");
+	-webkit-mask-image: url("./icons/rs_school_js.svg");
 	-webkit-mask-size: cover;
 	transition: 0.5s;
 }
