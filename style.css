@@ -347,7 +347,7 @@ ul li {
 	background-color: #ffc20a;
 	margin-right: 10px;
 
-	-webkit-mask-image: url("/icons/git.svg");
+	-webkit-mask-image: url("./icons/git.svg");
 	-webkit-mask-size: cover;
 }
 
