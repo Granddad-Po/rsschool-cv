@@ -56,6 +56,16 @@ function isPangram(string){
 
 ***
 
+## Experience:
+
+* **OMEGA**
+  + omega-r.com/omega-r.ru/omega-r.cn - company website (React.js, Next.js, Typescript):
+  + Website development (layout and interaction of React components, setting up routing)
+  + Implementation of new features (added Yandex metrics, linters, filters, adaptive)
+  + Site support and troubleshooting technical problems
+
+***
+
 ## Courses:
 
 * Studied Frontend on [freeCodeCamp](https://www.freecodecamp.org/learn)
