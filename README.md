@@ -1,1 +1,1 @@
-https://Granddad-Po.github.io/rsschool-cv/cv
+https://Granddad-Po.github.io/rsschool-cv/
