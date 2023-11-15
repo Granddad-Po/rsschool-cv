@@ -1,12 +1,14 @@
 # **Vitaliy Potapov**
 
+![my photo](profile_cv.jpg "me")
+
 ## Frontend Developer
 
 ***
 
 ## Contact information:
 
-**Phone:** +7 (705) 476 14 33
+**Phone:** +995 (591) 071 459
 **Email:** granddad.po@gmail.com
 **Telegram:** @granddad_po
 **Discord:** Granddad Po\#4279
@@ -16,13 +18,6 @@
 ***
 
 ## About Myself:
-
-* I changed my activity, studied and, now I'm looking for a job in Frontend development.
-* I have been writing ReactJS for the last year and a half.
-* My stack: React.JS, Next.JS, Vue, Node.JS, Nest.JS, MongoDB, TypeScript, JavaScript, Redux, HTML5, SCSS, CSS3, Git.
-* Before that, I studied Java for a year.
-* I am in constant development and open to cooperation.
-  GitHub: https://github.com/GranddadPo
 
 For a long time I was looking for my direction. I managed to try myself in Web design, photography, vector graphics,
 architecture, sales, etc.) At the moment, I’m ready to take the path of Front-end development with full confidence,
@@ -37,9 +32,40 @@ from people.
 
 * HTML, CSS, SCSS
 * JavaScript, TypeScript, Java, Dart
-* ReactJS, NextJS, NodeJS, Nest.JS, Vue, Flutter
-* Git
+* React.js, Next.js, Node.js, Nest.js, Redux
 * MongoDB, MySQL, PostgreSQL
+* Git
 * Adobe Photoshop, Lightroom, Illustrator, Figma, Capture One, Davinci Resolve
 
 ***
+
+## Code Example:
+
+This code demonstrates the use of basic encryption using a numeric key to encrypt and decrypt a text message. The whole point is to raise each character in the string to a power by the numeric value of the key. We do the same for decryption.
+
+```javascript
+function isPangram(string){
+  string = string.toLowerCase();
+  return "abcdefghijklmnopqrstuvwxyz"
+      .split("")
+      .every(function(x){
+    return string.indexOf(x) !== -1;
+  });
+}
+```
+
+***
+
+## Courses:
+
+* Studied Frontend on [freeCodeCamp](https://www.freecodecamp.org/learn)
+* Reading [Javascript.ru](https://learn.javascript.ru/)
+* Solving problems on [CodeWars](https://www.codewars.com/dashboard)
+* Exploring Java on [JavaRush](https://javarush.ru/) and reading a variety of books
+
+***
+
+## Languages:
+
+* **English - A2 (Elementary)**
+* Russian - native
